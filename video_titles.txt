@@ -1,0 +1,5 @@
+NEW in Filament 3: Multiple Panels
+NEW in Filament 3: Infolist Builder
+NEW in Filament 3: Multi-Tenancy
+NEW in Filament 3: Table Builder Summaries with Grouping
+What Else is New in Filament 3: Actions, Themes and Upgrade Tool
